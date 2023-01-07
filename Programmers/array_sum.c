@@ -2,9 +2,9 @@
 
 int main(void)
 {
-	int num1[3][3];
+	int num1[3][3];// 입력받을 값
 	int num2[3][3];
-	int sum;
+	int sum;// 합계
 
 	// 입력
 	for (int i = 0; i < 3; i++) {
